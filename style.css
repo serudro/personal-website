@@ -1,0 +1,114 @@
+body{
+    margin: 0em;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-size: 30px;
+    color: rgb(243, 28, 189);
+}
+.half-width{
+    padding-left: 2%;
+    margin-left: 5%;
+    float: left;
+    width: 43%;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width h2{
+    padding-top: 150px;
+}
+.matha{
+    background-image: url("images/header-bg.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+section{
+    height: 800px;
+    ;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(250, 114, 182),rgb(246, 13, 138));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: honeydew;
+    font-weight: 700;
+}
+.middle{
+    background-image: url("images/biography-bg.png");
+    background-size: fixed;
+    background-repeat: no-repeat;
+
+
+}
+h3{
+    text-align: center;
+    font-size: 40px;
+}
+.deer{
+    height: 500px;
+    background-image: url("images/latest-work-bg.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    float: right;
+}
+.third-half-width{
+    padding-left: 2%;
+    margin-left: 5%;
+    float: left;
+    width: 25%;
+}
+.third-half-width img{
+    width: 100%;
+}
+.third-half-width h2{
+    padding-top: 150px;
+}
+.elephant{
+    text-align: center;
+}
+.tiger{
+    background-image: url("images/footer-bg.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    
+}
+h4{
+    text-align: center;
+}
+h5{
+    color: white;
+    font-size: 20px;
+}
+.elephant h4{
+    padding-top: 500px;
+    font-size: 30px;
+}
+#bruce{
+    font-weight: 700;
+}
+.cent{
+    background-image: linear-gradient(45deg,rgb(245, 94, 170), rgb(252, 30, 178));
+    text-align: center;
+    margin: 0px 300px;
+    padding: 12px;
+    border-radius: 10px;
+}
+footer p{
+    text-align: center;
+    font-size: 15px;
+    padding-top: 200px;
+    padding-bottom: 10px;
+}
+footer{
+     
+    bottom: 0;
+    height:50px;
+    width:100%;
+}
+.cent p{
+    color: white;
+}
